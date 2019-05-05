@@ -1,0 +1,59 @@
+body{
+	background: url(../img/bearhd.jpg);
+	background-size: cover;
+	padding: 50px;
+}
+img{
+	border-radius: 50%;
+
+}
+p{text-align: left;}
+.well{
+	background: #D1D1D1;
+	padding: 20px;
+	border: solid 2px #7C7575;
+    box-shadow: 10px 10px 10px 10px black;
+}
+a{
+	margin: 6px;
+	color: black;
+	font-family: Forte;
+	margin-left: 30px;
+}
+h3{ 
+font-family: Bernard MT;
+color: }
+small{
+color: #9B9B9B;
+font-family: Book Antiqua;
+
+}
+#nombre{
+	border-radius: 50%;
+	background: color
+}
+#des{
+font-size: 15px; }
+#des2{
+	font-size: 25px;
+}
+.panel-body{
+	background-color: ;
+	display: grid;
+}
+.panel-body2{
+	margin-left: 400px;
+	display: grid;
+
+}
+h5{ font-family: Impact; }
+.contened{
+	display: flex;
+border: 3px solid black;
+padding: 5px;
+box-shadow: 8px 8px;
+}
+ 
+.centered{
+	margin-right: auto;
+}
